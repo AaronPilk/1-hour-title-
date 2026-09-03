@@ -131,7 +131,7 @@ h1,h2,h3,h4 { letter-spacing: -.022em; line-height: 1.06; color: var(--ink-soft)
 }
 .nav { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
 .brand { display: flex; align-items: center; gap: 10px; }
-.brand img { height: 42px; width: auto; transition: opacity .3s; }
+.brand img { height: 68px; width: auto; transition: opacity .3s; }
 .nav-links { display: flex; align-items: center; gap: 4px; }
 .nav-links a {
   font-size: .95rem; font-weight: 500; color: var(--ink-soft);
@@ -315,7 +315,7 @@ h1,h2,h3,h4 { letter-spacing: -.022em; line-height: 1.06; color: var(--ink-soft)
 /* ---------- Footer ---------- */
 .footer { background: var(--bg-dark); color: #a1a1a6; padding: 64px 0 30px; }
 .footer-top { display:grid; grid-template-columns: 1.4fr 1fr 1fr 1.1fr; gap: 34px; padding-bottom: 40px; border-bottom: 1px solid rgba(255,255,255,.09); }
-.footer img.f-logo { height: 44px; margin-bottom: 16px; }
+.footer img.f-logo { height: 64px; margin-bottom: 16px; }
 .footer h5 { color:#fff; font-size:.82rem; letter-spacing:.1em; text-transform:uppercase; margin-bottom:16px; font-weight:600; }
 .footer a { color:#a1a1a6; font-size:.96rem; display:inline-block; padding:5px 0; transition: color .25s; }
 .footer a:hover { color: var(--gold); }
